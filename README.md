@@ -19,7 +19,7 @@
 ---
 ## Мой сертификат
 
-![Сертификат](certificate_Algoritmika.png)
+[Посмотреть сертификат (PDF)](certificate_Algoritmika.pdf)
 ---
 
 **Автор:**  
